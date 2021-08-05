@@ -21,6 +21,7 @@
     <link rel="stylesheet" href="/theme/css/boxicons.min.css">
     <link rel="stylesheet" href="/theme/css/style.css">
     <link rel="stylesheet" href="/theme/css/responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/styles/default.min.css">
 
     <link rel="icon" type="image/png" href="/theme/img/favicon.png">
 
@@ -119,6 +120,8 @@
         <div class="go-top"><i class="fas fa-chevron-up"></i></div>
     </div>
 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.2.0/highlight.min.js"></script>
+
     <script src="{{ asset('js/app.js') }}"></script>
 
     <!-- jQuery Min JS -->
@@ -151,5 +154,6 @@
     <script src="/theme/js/contact-form-script.js"></script>
     <!-- Main JS -->
     <script src="/theme/js/main.js"></script>
+
 </body>
 </html>
